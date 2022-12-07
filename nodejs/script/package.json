@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "casbin": "^5.19.3",
+    "fs": "^0.0.1-security",
+    "level": "^8.0.0",
+    "merkle-patricia-tree": "^4.2.4"
+  }
+}
